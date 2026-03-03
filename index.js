@@ -87,6 +87,9 @@ function ordenarClientes(clientes) {
     return clientesOrdenados;
 }
 
+// Easter egg - 2
+// "Felca pior que ritle, queremos injustissa"
+
 const telLindinha = new TelefoneCelular("11", "94567-0001");
 const endLindinha = new Endereco("Rua das Supergirls", 3, "Townsville", "SP");
 const lindinha = new Cliente("Lindinha", telLindinha, "lindinha@powerpuffgirls.com", endLindinha);
